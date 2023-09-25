@@ -1,0 +1,100 @@
+.browncard2{
+    background-color:#79554845;
+    width: 351px;
+    padding: 2px;
+    margin: 589px;
+    height: 33px;
+    margin-top: 405px;
+    font-size: 191px;
+  }
+  .browncard12{
+      background-color: #0066A2;
+      width: 1479px;
+      padding: 0px;
+      margin: -7px;
+      height:42px;
+      margin-top: -27%;
+  }
+  
+  .browncard32{
+    background-color: #0066A2;
+    width: 274px;
+    padding: 4px;
+    margin: 7px;
+    height:12px;
+    margin-top: -116%;
+  }
+  
+  .browncard-header2{
+    color:#d6d7da;
+    padding:0px;
+    font-size: 25px;
+    font-weight: bolder;
+    text-align: center;
+  }
+  .browntext123{
+    color:rgb(243 252 243);
+    padding:0px;
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 420px;
+  
+  }
+  
+  #brownkri2{
+    text-align: center;
+    font-size: 20px;
+  }
+  .brownkrish2{
+    font-size: 50px;
+    margin:3px;
+  }
+  
+  
+  
+  
+    .brownbutton32{
+      border-radius: 25px;
+    background-color: #4fd153; 
+    border: none;
+    color: white;
+    padding: 17px 3px;
+    text-align: center;
+    text-decoration:solid;
+    display: inline-block;
+    font-size: 24px;
+    margin: 293px;
+    margin-top: -2601px;
+    height: 56px;
+    width: 214px;
+    cursor: pointer;
+    }
+    .brownbutton42{
+      border-radius: 25px;
+    background-color: #3ac162;
+    border: none;
+    color: white;
+    padding: 4px 3px;
+    text-align: center;
+    text-decoration:solid;
+    display: inline-block;
+    font-size: 20px;
+    margin: 1259px;
+    margin-top:6px;
+    height:31px;
+    width: 192px;
+    cursor: pointer;
+    }
+   
+   
+    
+    .brownMycontainer2{
+      background-image: url('https://sgmh.org/wp-content/uploads/2017/11/1.jpg');
+      background-size:cover;
+      height:94vh;
+      width: 98%;
+      background-repeat:no-repeat;
+      overflow:hidden;
+      padding: 15px;
+    }
