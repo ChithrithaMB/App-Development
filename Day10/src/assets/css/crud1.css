@@ -1,0 +1,193 @@
+.crud {
+    height: 16vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+table td {
+    width: 230px;
+    height: 30px;
+    text-align: center;
+    margin-top: 10px;
+   
+}
+
+table td button {
+    padding: 5px 10px;
+    border-radius: 5%;
+    cursor: pointer;
+    
+}
+table td button.edit {
+    border: 1px solid green;
+    background-color: rgb(7, 168, 7);
+    color: white;
+}
+table td button.edit:hover {
+    background-color: rgb(3, 71, 3);
+}
+table td button.delete {
+    border: 1px solid red;
+    background-color: rgb(219, 19, 19);
+    color: white;
+}
+table td button.delete:hover {
+    background-color: rgb(92, 5, 5);
+}
+
+table1 td {
+    width: 230px;
+    height: 30px;
+    margin-top: 10px;
+    text-align: center;
+   
+}
+
+table1 td button {
+    padding: 5px 10px;
+    border-radius: 5%;
+    cursor: pointer;
+    
+}
+table1 td button.edit {
+    border: 1px solid green;
+    background-color: rgb(7, 168, 7);
+    color: white;
+}
+table1 td button.edit:hover {
+    background-color: rgb(3, 71, 3);
+}
+table1 td button.delete {
+    border: 1px solid red;
+    background-color: rgb(219, 19, 19);
+    color: white;
+}
+table1 td button.delete:hover {
+    background-color: rgb(92, 5, 5);
+}
+table2 td {
+    width: 230px;
+    height: 30px;
+    margin-top: 10px;
+    text-align: center;
+   
+}
+
+table2 td button {
+    padding: 5px 10px;
+    border-radius: 5%;
+    cursor: pointer;
+    
+}
+table2 td button.edit {
+    border: 1px solid green;
+    background-color: rgb(7, 168, 7);
+    color: white;
+}
+table2 td button.edit:hover {
+    background-color: rgb(3, 71, 3);
+}
+table2 td button.delete {
+    border: 1px solid red;
+    background-color: rgb(219, 19, 19);
+    color: white;
+}
+table2 td button.delete:hover {
+    background-color: rgb(92, 5, 5);
+}
+
+
+.addForm {
+    margin-bottom: 430px;
+    margin-left: 111px;
+    margin-top: -15px;
+}
+.addForm input {
+    width: 224px;
+    height: 30px;
+    margin-top: 174px;
+
+
+}
+.addForm button {
+    width: 207px;
+    color: white;
+    height: 52px;
+    background-color: rgb(31, 171, 31);
+    margin-right: -20px;
+}
+.addForm button:hover {
+    background-color: rgb(5, 86, 5);
+}
+
+.addForm1 {
+    margin-bottom: 430px;
+    margin-left: 111px;
+    margin-top: -15px;
+}
+.addForm1 input {
+    width: 224px;
+    height: 30px;
+    margin-top: 696px;
+
+
+}
+.addForm1 button {
+    width: 271px;
+    color: white;
+    height: 52px;
+    background-color: rgb(31, 171, 31);
+    margin-right: -20px;
+}
+.addForm1 button:hover {
+    background-color: rgb(5, 86, 5);
+}
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 89%;
+    border: 1px solid #ddd;
+    margin-top: -417px;
+    margin-left: 110px;
+
+
+  }
+  th, td {
+    text-align: left;
+    padding: 16px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(odd) {
+    background-color: #06d6ddcb;
+  }
+tr:hover {background-color: coral;}
+table1 {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 89%;
+    border: 1px solid #ddd;
+    margin-top: -1500px;
+    margin-left: 110px;
+
+
+  }
+  th, td {
+    text-align: left;
+    padding: 16px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(odd) {
+    background-color: #06d6ddcb;
+  }
+tr:hover {background-color: coral;}

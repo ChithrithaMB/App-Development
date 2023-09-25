@@ -1,0 +1,180 @@
+.grid_box5 {
+    position: relative;
+    margin: 0 0 32px;
+    margin-top: 10px;
+    color:antiquewhite;
+    height:50px;
+    width:50px;
+
+}
+
+.grid_box5 h2 {
+    font-family: LatoBold;
+    font-size: 24px;
+    line-height: 32px;
+    margin: 0 0 24px;
+    color: #0b1219;
+    padding: 0;
+}
+
+.clearfix {
+    height: 0px;
+    clear: both;
+    display: flex;
+}
+
+.clearfix::after {
+    display: block;
+    clear: both;
+    content: "";
+}
+
+ .cat_list {
+    margin: 0 16px;
+    display: block;
+}
+
+ .cat_list .drug_details {
+    width: 95%;
+    float: left;
+    overflow: hidden;
+    margin: 0 1.25% 0 0;
+    color:aqua;
+}
+
+.cat_title{
+    
+        margin-top: -27px;
+        margin-left: 81px;
+      
+}
+
+.ai{
+    height: 200px;
+    width: 200px;
+}
+
+.drug_details1 {
+    width: 95%;
+    float: left;
+    overflow: hidden;
+    margin: 0 1.25% 0 0;
+    color:aqua;
+    margin-top: -194px;
+  margin-left: 143px;
+}
+
+.cat_title1{
+    
+    margin-top: -27px;
+    margin-left: 60px;
+  
+}
+
+.drug_details2 {
+    width: 95%;
+    float: left;
+    overflow: hidden;
+    margin: 0 1.25% 0 0;
+    color:aqua;
+    margin-top: -194px;
+  margin-left: 360px;
+}
+
+
+.cat_title2{
+    
+    margin-top: 1px;
+    margin-left: 60px;
+  
+}
+
+.drug_details3 {
+    width: 95%;
+    float: left;
+    overflow: hidden;
+    margin: 0 1.25% 0 0;
+    color:aqua;
+    margin-top: -220px;
+  margin-left: 560px;
+}
+
+
+.cat_title3{
+    
+    margin-top: 1px;
+    margin-left: 60px;
+  
+}
+.links1 a {
+    width: 15%;
+    min-width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 6px 20px;
+    margin: 4px;
+    background-image: linear-gradient(to top, black, rebeccapurple);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px solid black;
+    
+  }
+  
+  a.active {
+    text-shadow: 1px 2px #ab70e6;
+    background: black;
+    text-decoration: none;
+  }
+  .links1 a:hover {
+    background: rebeccapurple;
+    border: 1px solid black;
+    color: white;
+  }
+  
+  .links1 {
+    margin-top: 4px;
+    margin-left: 170px;
+    }
+    .welcome-container4 {
+        padding: 3rem;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow:
+            2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+            6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+            12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+            22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+            41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+            100px 100px 80px rgba(0, 0, 0, 0.07);
+            
+            margin-left: 568px;
+            width: 497px;
+            margin-top: -703px;
+            height: 192px;
+      }
+      .pinkbtn6{
+        border: 2px solid black;
+        background-color: white;
+        color: black;
+        padding: 9px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        margin-top: 11px;
+        margin-left: 957px;
+    }
+    .pinkBeauty {
+        border-color: #04AA6D;
+        color: green;
+      }
+      
+      .pinkBeauty:hover {
+        background-color: #04AA6D;
+        color: white;
+      }
+      .slide-image3 {
+        margin-top: 1782px;
+        margin-left: -675px;
+        width: 950px;
+      }
