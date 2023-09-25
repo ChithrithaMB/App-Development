@@ -1,0 +1,196 @@
+.card
+{
+        background-color: #ffffff;
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        padding: 16px;
+        margin: 16px;
+        transition: transform 0.2s;
+        max-width: 500px; /* Adjust the maximum width as needed */
+        margin-left: 470px;
+      
+}
+.card1 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 12px;
+    height: 753px;
+}
+.card1:hover {
+    background-color: #836464b3
+}
+.card2 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 12px;
+    height: 807px;
+}
+.card2:hover {
+    background-color: #836464b3
+}
+.card3 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 12px;
+    height: 346px;
+}
+.card3:hover {
+    background-color: #836464b3
+}
+.card4 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 12px;
+    height: 1065px;
+}
+.card4:hover {
+    background-color: #836464b3
+}
+.card5 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 12px;
+    height: 470px;
+}
+.card5:hover {
+    background-color: #836464b3
+}
+.card6 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 12px;
+    height: 942px;
+}
+.card6:hover {
+    background-color: #836464b3
+}
+.card7 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 12px;
+    height: 223px;
+}
+.card7:hover {
+    background-color: #836464b3
+}
+.card8 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 12px;
+    height: 88px;
+}
+.card8:hover {
+    background-color: #836464b3
+}
+.card9 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 12px;
+    height: 86px;
+}
+.card9:hover {
+    background-color: #836464b3
+}
+.card10 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 12px;
+    height: 126px;
+}
+.card10:hover {
+    background-color: #836464b3
+}
+.card11 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 14px;
+    height: 80px;
+}
+.card11:hover {
+    background-color: #836464b3
+}
+.card12 {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+    transition: transform 0.2s;
+    max-width: 660px;
+    margin-left: 12px;
+    height: 120px;
+}
+.card12:hover {
+    background-color: #836464b3;
+}
+.cardd1 {
+    color: red;
+}
