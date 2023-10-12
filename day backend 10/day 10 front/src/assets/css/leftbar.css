@@ -1,0 +1,188 @@
+.left-bar {
+    width: 210px;
+    background-image: linear-gradient(to bottom, #09bdf4a8, #0034ffc2,#4400ffc2);
+    color: #fff;
+    padding: 20px;
+    margin-top: -2px;
+    height: 1828px;
+    position: fixed;
+    left: 0;
+    top: 0;
+
+  }
+
+  .left-bar-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .left-bar-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+    width: 214px;
+  }
+  
+  .left-bar-button-logout {
+    background-color: #dc3545;
+    margin-top: 10px;
+  }
+  
+ 
+
+
+  .button-text1{
+    
+        color: #fff;
+        font-size: 20px;
+        margin-inline: 67px;
+      
+  }
+  .button-text2{
+    
+        color: #fff;
+        font-size: 20px;
+        margin-inline: 72px;
+      
+  }
+  .button-text3{
+    
+        color: #fff;
+        font-size: 20px;
+        margin-inline: 72px;
+      
+  }
+  .button-text5{
+    
+        color: #fff;
+        font-size: 20px;
+        margin-inline: 72px;
+      
+  }
+  .button-text6{
+    
+        color: #fff;
+        font-size: 20px;
+        margin-inline: 72px;
+        margin-top: 10px;
+        margin-left: 69px;
+      
+  }
+  .button-text4{
+    
+        color: #fff;
+        font-size: 20px;
+        margin-inline: 72px;
+        margin-top: 10px;
+
+      
+  }
+
+
+  .nav-btn1 {
+    padding: 10px;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: 3px solid rgb(245, 242, 242);
+    
+  }
+  
+  .nav-btn1:hover {
+    background-color: #f30930ce;
+  }
+
+
+  .nav-btn2 {
+    padding: 10px;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 40px;
+    
+    border-radius: 10px;
+    border: 3px solid rgb(245, 242, 242);
+  }
+  
+  .nav-btn2:hover {
+    background-color: #f30930ce;
+  }
+
+  .nav-btn3 {
+    padding: 10px;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: 3px solid rgb(245, 242, 242);
+  }
+  .nav-btn6 {
+    padding: 10px;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: 3px solid rgb(245, 242, 242);
+  }
+  
+  .nav-btn3:hover {
+    background-color: #f30930ce;
+  }
+  .nav-btn5 {
+    padding: 10px;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border: 3px solid rgb(245, 242, 242);
+  }
+  
+  .nav-btn5:hover {
+    background-color: #f30930ce;
+  }
+
+  .nav-btn4 {
+    padding: 10px;
+    text-align: left;
+    font-size: 16px;
+    margin-top: 133px;
+    border-radius: 10px;
+    border: 3px solid rgb(245, 242, 242);
+  }
+  
+  .nav-btn4:hover {
+    background-color: #0a7ff3;
+  }
+
+  .ls {
+  margin-inline: 34px;
+  margin-top: -24px;
+  color: whitesmoke;
+}
+  .hs {
+  margin-inline: 34px;
+  margin-top: -24px;
+  color: whitesmoke;
+}
+  .rs {
+  margin-inline: 34px;
+  margin-top: -24px;
+  color: whitesmoke;
+}
+  .as {
+  margin-inline: 34px;
+  margin-top: -18px;
+  color: whitesmoke;
+}
+  .ds {
+  margin-inline: 34px;
+  margin-top: -24px;
+  color: whitesmoke;
+}
+  .dbs {
+  margin-inline: 29px;
+  margin-top: -24px;
+  color: whitesmoke;
+}
