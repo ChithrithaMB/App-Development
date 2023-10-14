@@ -1,0 +1,111 @@
+.divt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container2 {
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 400px;
+    padding: 40px;
+  }
+  
+  .text-center {
+    text-align: center;
+    color: #333;
+    padding-bottom: 20px;
+  }
+  
+  .text1 {
+    color: #333;
+    font-weight: 500;
+  }
+  
+  .list-group-item {
+    background-color: #f9f9f9;
+    border: none;
+  }
+  
+  .btn12 {
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 10px;
+    margin-top:10px;
+  }
+  
+  .btn12-primary {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+   
+  }
+  
+  .btn12-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .my-2 {
+    margin-top: 20px;
+  }
+  /* Primary Button */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  /* Outline Button */
+  .btn-outline-primary {
+    background-color: transparent;
+    border: 2px solid #007bff;
+    color: #007bff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  /* Danger Button */
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .btn-danger:hover {
+    background-color: #a71d2a;
+    border-color: #a71d2a;
+  }
+  
+  /* Custom Button */
+  .btn-custom {
+    /* Add your custom button styles here */
+  }
+  
+  
