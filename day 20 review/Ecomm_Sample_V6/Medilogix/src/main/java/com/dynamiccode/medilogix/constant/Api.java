@@ -1,0 +1,20 @@
+package com.dynamiccode.medilogix.constant;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class Api {
+
+
+
+
+    public static final String AUTH = "/api/v1/auth";
+    public static final String USER = "/api/v1/user";
+    public static final String MEDICAL = "/api/v1/medical";
+
+    public static final String FEEDBACK = "/api/v1/feedback";
+
+    public static final List<String> HEADERS = Arrays.asList("Authorization", "Content-Type");
+    public static final List<String> METHODS = Arrays.asList("GET", "POST", "PUT", "DELETE");
+    public static final List<String> ORIGINS = Arrays.asList("http://localhost:3000");
+}

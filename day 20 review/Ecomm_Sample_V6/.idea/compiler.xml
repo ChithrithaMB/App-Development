@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="medidiscovery" />
+        <module name="Medifeedback" />
+        <module name="Medigateway" />
+        <module name="Mediserver" />
+        <module name="medilogix" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Medifeedback" options="-parameters" />
+      <module name="Medigateway" options="-parameters" />
+      <module name="Mediserver" options="-parameters" />
+      <module name="medidiscovery" options="-parameters" />
+      <module name="medilogix" options="-parameters" />
+    </option>
+  </component>
+</project>
