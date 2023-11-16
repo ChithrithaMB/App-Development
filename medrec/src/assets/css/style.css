@@ -1,0 +1,267 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #f5f5f7;
+  height: 100vh;
+  width: 100vw;
+  color: #000;
+  font-family: monospace;
+
+}
+.topbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333; /* Adjust the background color as needed */
+  color: #fff; /* Adjust the text color as needed */
+  padding: 10px; /* Adjust the padding as needed */
+  z-index: 100; /* Ensure the top bar is above other content */
+  height: 32px;
+}
+.pinkbtn333{
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 9px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 11px;
+  margin-left: -698px;
+}
+.pink111contact:hover {
+  background: #ff9800;
+  color: white;
+}
+
+
+.user {
+  position: absolute;
+  right: 4%;
+}
+.username-color{
+  color:rgb(95, 1, 184);
+}
+
+.main-wrapper {
+  position: absolute;
+  left: 10%;
+  top: 5%;
+  /* padding: 1rem; */
+  width: 90%;
+  height: 95%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.welcome-container {
+  padding: 1rem;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow:
+      2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+      6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+      12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+      22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+      41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+      100px 100px 80px rgba(0, 0, 0, 0.07);
+      margin-top: 1137px;
+      margin-left: 361px;
+    
+}
+
+.auth-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  flex-direction: row;
+  height: 100vh;
+}
+
+.auth-heading {
+  color: rgb(95, 1, 184);
+}
+
+.auth-form {
+  gap: 1rem;
+  height: 40vh;
+  width: 30vw;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
+.auth-form2 {
+  gap: 1rem;
+  height: 64vh;
+  width: 30vw;
+  border: none;
+  border-radius: 10px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
+
+.auth-field {
+  width: 60%;
+  padding: 1rem;
+  color: #000;
+  background-color: #ffffff;
+  border: 1px solid grey;
+
+}
+
+.auth-field:focus {
+  outline: 1px solid rgb(95, 1, 184);
+}
+
+.auth-btn {
+  padding: 1rem;
+  color: #ffffff;
+  background-color: rgb(95, 1, 184);
+  border: none;
+  font-weight: bold;
+}
+.app-x-shadow{
+  box-shadow:
+  2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+  6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+  12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+  22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+  41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+  100px 100px 80px rgba(0, 0, 0, 0.07);
+}
+
+.auth-links{
+  text-align: center;
+  margin: 2rem;
+  font-size: 1rem;
+}
+
+.auth-wrapper{
+  display: flex;
+  flex-direction: column;
+}
+a{
+  text-decoration: none;
+  color:#ad16ff
+}
+
+
+#app { height: 100% }
+html,
+body {
+position: relative;
+height: 100%;
+}
+
+body {
+background: #eee;
+font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+font-size: 14px;
+color: #000;
+margin: 0;
+padding: 0;
+}
+
+.swiper {
+width: 100%;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.swiper-slide {
+background-position: center;
+background-size: cover;
+width: 300px;
+height: 300px;
+}
+
+.swiper-slide img {
+display: block;
+width: 100%;
+}
+
+
+.welcome-container1 {
+  padding: 3rem;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 10px;
+  box-shadow:
+      2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+      6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+      12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+      22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+      41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+      100px 100px 80px rgba(0, 0, 0, 0.07);
+      
+margin-left: 100px;
+width:748px;
+margin-top: 58px;
+}
+.welcome-container2 {
+  padding: 3rem;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow:
+      2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+      6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+      12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+      22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+      41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+      100px 100px 80px rgba(0, 0, 0, 0.07);
+      
+margin-left: 385px;
+width:913px;
+margin-top: 1546px;
+height: 263px;
+}
+.welcome-container3 {
+  padding: 1rem;
+  background-color: #ffffff9c;
+  border-radius: 10px;
+  box-shadow:
+      2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+      6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+      12.5px 12.5px 10px rgba(0, 0, 0, 0.035),
+      22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+      41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+      100px 100px 80px rgba(0, 0, 0, 0.07);
+      margin-top: -640px;
+      position:absolute;
+}
+.welcome-container5 {
+  padding: 1rem;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 2.8px 2.8px 2.2px rgba(0, 0, 0, 0.02), 6.7px 6.7px 5.3px rgba(0, 0, 0, 0.028), 12.5px 12.5px 10px rgba(0, 0, 0, 0.035), 22.3px 22.3px 17.9px rgba(0, 0, 0, 0.042), 41.8px 41.8px 33.4px rgba(0, 0, 0, 0.05), 100px 100px 80px rgba(0, 0, 0, 0.07);
+    margin-left: 441px;
+    width: 446px;
+    margin-top: -348px;
+    height: -27px;
+}
+.regbg {
+  background-image: url("https://5.imimg.com/data5/SELLER/Default/2023/8/331833773/DT/VF/DF/85279025/medical-records-management-service.jpg");
+  height: 100vh;
+    width: 100%;
+  overflow: hidden;
+  background-repeat: no-repeat;
+
+  
+}
